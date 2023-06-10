@@ -1,0 +1,180 @@
+[Config]
+Compilator.FileName=Z:\home\denis\vfb-net\fbnet-dog\fbnet-dog.ppr
+Compilator.PSPar=fbnet-dog
+Compilator.Log=Z:\home\denis\vfb-net\fbnet-dog\fbnet-dog.ppr
+Compilator.Run=Z:\home\denis\vfb-net\fbnet-dog\fbnet-dog.ppr
+Compilator.DefaultDir=Z:\home\denis\vfb-net\fbnet-dog
+Compilator.SaveAll=1
+Compilator.Capture=1
+Compilator.CompileOnBackground=1
+Compilator.ProgSaveAll=1
+Compilator.ProgRunSelection=1
+Compilator.LogType=0
+Compilator.LogEncoding=2
+DefaultDir=Z:\home\denis\vfb-net\fbnet-dog
+DefaultCP=10065001
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=1
+FileFormat=0
+ProjectFilesOnly=0
+DocumentRoot=Z:\home\denis\vfb-net\fbnet-dog
+HTServer=fbnet-dog.net
+[Project tree]
+fbnet-dog
+	-fbnet-dog
+		-gnu
+			-matrix
+				-test
+					Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\overview\runtest.bas
+					Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\intro\dielip.bas
+					Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\intro\droptest.bas
+					Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\intro\diewill.bas
+					Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\duewill.bas
+					Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\incsales.bas
+					Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\test\runtest
+					Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\test\incsales
+					Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\test\droptest
+					Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\test\diewill
+					Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\test\dietest
+					Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\test\dielip
+				-lib
+					Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\overview\runtest.bas
+					Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\intro\dielip.bas
+					Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\intro\droptest.bas
+					Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\intro\diewill.bas
+					Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\duewill.bas
+					Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\incsales.bas
+					Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\lib\runtest
+					Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\lib\incsales
+					Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\lib\droptest
+					Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\lib\diewill
+					Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\lib\dietest
+					Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\lib\dielip
+				-bin
+					-doc
+						-overview
+							Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\overview\runtest.bas
+							Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\intro\dielip.bas
+							Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\intro\droptest.bas
+							Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\intro\diewill.bas
+							Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\duewill.bas
+							Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\incsales.bas
+							Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\overview\runtest
+							Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\overview\incsales
+							Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\overview\droptest
+							Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\overview\diewill
+							Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\overview\dietest
+							Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\overview\dielip
+						-intro
+							Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\intro\dietest.bas
+							Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\intro\diewill.bas
+							Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\intro\droptest.bas
+							Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\duewill.bas
+							Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\incsales.bas
+							Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\intro\dielip.bas
+							Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\intro\droptest
+							Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\intro\diewill
+							Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\intro\dietest
+							Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\intro\dielip
+					-client
+						Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\duewill.bas
+						Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\incsales.bas
+						Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\summary.bas
+						Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\summary
+						Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\safewill.bas
+						Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\safewill
+						Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\repositor.bi
+						Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\pushit
+						Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\push
+						Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\pop
+						Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\office
+						Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\marocat.bas
+						Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\marocat
+						Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\libsummary.a
+						Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\liboffice.a
+						Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\libdebit.a
+						Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\incsales
+						Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\filing-date.bas
+						Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\filing-date
+						Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\depositor.bi
+						Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\debit.bas
+						Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\debit
+						Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\com.bas
+						Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\com
+						Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\card-it.bas
+						Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\card-it
+						Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\array.bi
+						Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\intro\droptest.bas
+						Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\droptest
+[Open project files]
+0=Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\incsales.bas
+1=Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\duewill.bas
+2=Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\intro\droptest.bas
+3=Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\intro\diewill.bas
+4=Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\intro\dielip.bas
+6=Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\overview\runtest.bas
+25=Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\doc\intro\dietest.bas
+30=Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\summary.bas
+32=Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\safewill.bas
+34=Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\repositor.bi
+39=Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\marocat.bas
+45=Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\filing-date.bas
+47=Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\depositor.bi
+48=Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\debit.bas
+50=Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\com.bas
+52=Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\card-it.bas
+54=Z:\home\denis\vfb-net\fbnet-dog\gnu\matrix\bin\client\array.bi
+[Selected Project Files]
+Main=
+[gnu\matrix\bin\client\incsales.bas]
+TopLine=1
+Caret=1,1
+[gnu\matrix\bin\client\duewill.bas]
+TopLine=1
+Caret=1,1
+[gnu\matrix\bin\doc\intro\droptest.bas]
+TopLine=38
+Caret=9,62
+[gnu\matrix\bin\doc\intro\diewill.bas]
+TopLine=5
+Caret=1,41
+[gnu\matrix\bin\doc\intro\dielip.bas]
+TopLine=18
+Caret=6,28
+[gnu\matrix\bin\doc\overview\runtest.bas]
+TopLine=1
+Caret=54,6
+[gnu\matrix\bin\doc\intro\dietest.bas]
+TopLine=1
+Caret=1,1
+[gnu\matrix\bin\client\summary.bas]
+TopLine=1
+Caret=1,1
+[gnu\matrix\bin\client\safewill.bas]
+TopLine=1
+Caret=1,1
+[gnu\matrix\bin\client\repositor.bi]
+TopLine=1
+Caret=1,1
+[gnu\matrix\bin\client\marocat.bas]
+TopLine=1
+Caret=1,1
+[gnu\matrix\bin\client\filing-date.bas]
+TopLine=1
+Caret=1,1
+[gnu\matrix\bin\client\depositor.bi]
+TopLine=1
+Caret=1,1
+[gnu\matrix\bin\client\debit.bas]
+TopLine=1
+Caret=1,1
+[gnu\matrix\bin\client\com.bas]
+TopLine=1
+Caret=1,1
+[gnu\matrix\bin\client\card-it.bas]
+TopLine=1
+Caret=1,1
+[gnu\matrix\bin\client\array.bi]
+TopLine=1
+Caret=1,1

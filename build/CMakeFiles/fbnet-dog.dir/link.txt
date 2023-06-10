@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/fbnet-dog.dir/main.cpp.o -o fbnet-dog 

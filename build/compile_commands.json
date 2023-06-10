@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/vfb-net/fbnet-dog/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/fbnet-dog.dir/main.cpp.o -c /home/denis/vfb-net/fbnet-dog/main.cpp",
+  "file": "/home/denis/vfb-net/fbnet-dog/main.cpp"
+}
+]
